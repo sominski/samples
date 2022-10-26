@@ -1,0 +1,71 @@
+body {
+  background-color: black;
+  max-width: 70%;
+  min-width: fit-content;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-size: smaller;
+  color: grey;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.black {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+.white {
+  background-color: #f2f2f2;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.white2 {
+  background-color: white;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.bluebutton {
+  color: white;
+  background-color: mediumturquoise;
+  width: 100px;
+  height: 25px;
+  border: 0pt;
+  border-radius: 4px;
+}
+.blackbutton {
+  color: white;
+  background-color: black;
+  width: 100px;
+  height: 25px;
+  border: 1pt;
+  border-style: none;
+  border-color: grey;
+  border-style: solid;
+  border-radius: 4px;
+}
+.whitebutton {
+  color: black;
+  background-color: white;
+  width: 100px;
+  height: 25px;
+  border: 1pt;
+  border-style: none;
+  border-color: black;
+  border-style: solid;
+  border-radius: 4px;
+}
+.form {
+  border-radius: 4px;
+  border: 1px solid;
+  width: 100%;
+}
+.vr {
+  border-left: 0px;
+  height: 6px;
+  left: 50%;
+  top: 0;
+}
+.vr40 {
+  border-left: 0px;
+  height: 50px;
+  left: 50%;
+  top: 0;
+}
